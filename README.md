@@ -1,4 +1,4 @@
-# Bike Purchase Analytics Dashboard — Excel Project
+# Bike Purchase Analytics Dashboard - Excel Project
 
 ## Project Overview
 This project showcases end-to-end data analytics using Microsoft Excel, starting from raw customer demographic and lifestyle information related to bike purchases.  
